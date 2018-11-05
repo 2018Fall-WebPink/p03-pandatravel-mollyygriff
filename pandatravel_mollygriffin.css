@@ -1,0 +1,22 @@
+/*
+* Molly Griffin
+* 11/6/18
+* Panda Travel Agency Project
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { background-color: rosybrown;
+
+}
+#FortMifflinSign { width:500px; height:500px; }
+#Fortmifflinsign { float: left;}
+#Fortmifflinwplane {width:500px; height:500px;}
+#fortghostgathering {width:300px; height:200px;}
+#Ghostgathering { clear: both; }
